@@ -1,4 +1,4 @@
-# Awesome Travel & Tourism Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Travel & Tourism Mind Maps](https://mindmapai.app/mind-maps/travel-and-tourism) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Enhance travel planning and tourism projects with project management and mind maps AI to organize itineraries, logistics, and goals efficiently. Mind maps AI empowers travelers and tourism professionals to visualize experiences, manage resources, and promote sustainable, memorable journeys.
 
